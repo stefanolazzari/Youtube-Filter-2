@@ -9,13 +9,13 @@
     {
         "id":2,
         "title":"onde martenot",
-        "url": "https://www.youtube.com/embed/ZdnQtOrivV8",
+        "url": "https://www.youtube.com/embed/mN5kkxNTYZ4",
         "class":"onde-martenot"
     },
     {
         "id":3,
         "title":"onde martenot",
-        "url": "https://www.youtube.com/embed/ZdnQtOrivV8",
+        "url": "https://www.youtube.com/embed/f4phKWMaOr0",
         "class":"onde-martenot"
     },
     {
@@ -27,31 +27,31 @@
     {
         "id":6,
         "title":"theremin",
-        "url": "https://www.youtube.com/embed/pSzTPGlNa5U" ,
+        "url": "https://www.youtube.com/embed/lY7sXKGZl2w" ,
         "class":"theremin"
     },
     {
         "id":7,
         "title":"moog",
-        "url": "https://www.youtube.com/embed/UsW2EDGbDqg" ,
+        "url": "https://www.youtube.com/embed/NdG5dEfAcxQ" ,
         "class":"moog"
     },
     {
         "id":8,
         "title":"arp",
-        "url": "https://www.youtube.com/embed/5uIvFhEiuS8" ,
+        "url": "https://www.youtube.com/embed/0oydopqkUOk" ,
         "class":"arp"
     },
     {
         "id":9,
         "title":"arp",
-        "url": "https://www.youtube.com/embed/5uIvFhEiuS8" ,
+        "url": "https://www.youtube.com/embed/nLm-PvcTZD8" ,
         "class":"arp"
     },
     {
         "id":10,
         "title":"moog",
-        "url": "https://www.youtube.com/embed/UsW2EDGbDqg" ,
+        "url": "https://www.youtube.com/embed/sLx_x5Fuzp4" ,
         "class":"moog"
     }
     
